@@ -1,1 +1,1 @@
-
+Mobile Phone Detection training and inference pipeline using the YOLOV5 model.
